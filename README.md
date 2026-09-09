@@ -39,6 +39,6 @@
 
 ## Список источников
 
-1. **ПАО «Сбербанк».** Официальное раскрытие информации от 11.08.2026: «Сокращенные результаты ПАО Сбербанк по РПБУ за семь месяцев 2026 года». [Официальный раздел Investor Relations Сбера](https://www.sberbank.com/ru/investor-relations/disclosure/quarterly-reports)
+1. **ПАО «Сбербанк».** Отчеты эмитента (за 2026 год) [https://www.sberbank.com/ru/investor-relations/disclosure/quarterly-reports](https://www.sberbank.com/ru/investor-relations/disclosure/quarterly-reports)
 2. **ПАО «Сбербанк».** Документация Sber API. Разделы по работе с платёжными документами и отслеживанию их статусов. [https://developers.sber.ru/docs/ru/sber-api/specifications/payments/payments-overview](https://developers.sber.ru/docs/ru/sber-api/specifications/payments/payments-overview)
-3. **ПАО «Сбербанк».** Официальный сайт: сервисы дистанционного банковского обслуживания и СберБанк Онлайн. [https://www.sberbank.ru/](https://www.sberbank.ru/)
+3. **ПАО «Сбербанк».** Официальный сай. [https://www.sberbank.ru/](https://www.sberbank.ru/)
